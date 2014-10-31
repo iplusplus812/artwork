@@ -1,0 +1,9 @@
+{
+    "name": "artwork",
+    "dependencies": {
+        "express": "latest",
+        "mongoose": "latest",
+        "mongoose-q": "latest",
+        "body-parser": "latest"
+    }
+}
